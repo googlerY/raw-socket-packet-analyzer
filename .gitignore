@@ -1,0 +1,17 @@
+# 1. C 언어 빌드 결과물
+*.o
+*.out
+*.exe
+*.a
+
+# 빌드된 최종 실행 파일 (Makefile로 생성될 이름)
+tcp_analyzer
+
+# 2. 에디터 및 IDE 설정 파일
+.vscode/
+*.swp
+*~
+
+# 3. OS 시스템 파일
+.DS_Store
+Thumbs.db
